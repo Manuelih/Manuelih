@@ -1,21 +1,25 @@
+<!-- Banner personalizzato -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/manuelih/your-banner.png" alt="Banner" width="600" />
+</p>
+
 # 👋 Ciao, sono Emanuele
 
-Benvenuto nel mio profilo GitHub!  
-🎓 Ho 18 anni e sono uno **studente sviluppatore** con una forte passione per la tecnologia, il software e l’innovazione digitale.
+> _Studente sviluppatore appassionato di tecnologia, software e innovazione digitale._
+
+🎓 Ho 18 anni e sono uno sviluppatore che ama trasformare idee in realtà con codice pulito, funzionale e scalabile.
 
 ---
 
-## 🏢 Attualmente
+## 🚀 Chi sono
 
-### 🚀 Lavoro come sviluppatore per  
-# [EnderDevelopment](https://enderdevelopment.com/chi-siamo) _(Endev.it)_
+Sono attualmente sviluppatore presso **[EnderDevelopment](https://enderdevelopment.com/chi-siamo)** (_Endev.it_), un team affiatato che crea soluzioni digitali su misura per Minecraft e web.
 
-> 💡 **EnderDevelopment** è una realtà professionale specializzata in **soluzioni digitali per Minecraft e Web**.  
-> Faccio parte di un **team di sviluppatori affiatato e dinamico** che crea plugin personalizzati, siti web, applicazioni e molto altro, lavorando su progetti su misura per i clienti.
+> 💡 *Credo che il miglior codice sia quello che risolve problemi reali e rende la vita più semplice.*
 
 ---
 
-## 🚀 Competenze Tecniche
+## 🛠️ Competenze Tecniche
 
 <div align="center">
   
@@ -29,20 +33,30 @@ Benvenuto nel mio profilo GitHub!
 
 ---
 
-## 🧠 Cosa sviluppo?
+## 📌 Cosa sviluppo
 
-- 🤖 **Bot Discord personalizzati** con comandi avanzati e interazioni dinamiche  
-- 💻 **Applicazioni desktop Java** con interfacce grafiche e gestione dati  
-- 🌐 **Siti web responsive** per portfolio, progetti personali o landing page  
-- 🛠️ **Script Python** per automazione, scraping e analisi dati
+| 🔥 Progetti chiave               | Descrizione                                        |
+|---------------------------------|---------------------------------------------------|
+| 🤖 Bot Discord personalizzati    | Comandi avanzati, automazioni e interazioni smart |
+| 💻 Applicazioni desktop Java      | Interfacce grafiche moderne e gestione dati       |
+| 🌐 Siti web responsive           | Portfolio, landing page, e-commerce                 |
+| 🛠️ Script Python                | Automazione, scraping e data analysis              |
 
 ---
 
-## 🛠️ Esperienza in Team & Progetti Chiave
+## 💼 Esperienza in Team
 
-- Collaborazione continua con il team di **EnderDevelopment / Endev.it**  
-- Sviluppo di soluzioni digitali personalizzate: plugin Minecraft, funzionalità Web, interfacce grafiche  
-- Curare la qualità, il design e le performance nei progetti aziendali  
+- 🚀 Attualmente parte del team di **EnderDevelopment / Endev.it**  
+- 💡 Collaborazione su progetti innovativi per Minecraft e web  
+- 🧩 Focus su qualità del codice, design intuitivo e performance elevate  
+
+---
+
+## 🎯 Obiettivi Futuri
+
+- Approfondire lo sviluppo di applicazioni scalabili e sicure  
+- Contribuire a progetti open source di rilievo  
+- Migliorare l’esperienza utente con UI/UX design moderno  
 
 ---
 
@@ -50,23 +64,27 @@ Benvenuto nel mio profilo GitHub!
 
 <div align="center">
 
-![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelih&show_icons=true&theme=radical&hide=issues)
+![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelih&show_icons=true&theme=radical&hide=issues&count_private=true)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelih&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 📬 Contatti
+## 📫 Contattami
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-emanuele@email.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuele.piferioprivate@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Manuelih-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelih)
+[![GitHub](https://img.shields.io/badge/GitHub-Manuelih-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelih)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emanuele-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo-linkedin)  
 
 </div>
 
 ---
 
-> 👀 **Grazie per la visita!**  
-> 🧑‍💻 Torna presto per scoprire nuovi progetti in arrivo!
+> 👀 **Grazie per essere passato!**  
+> 🚀 Seguimi per non perdere i prossimi progetti innovativi e collaborazioni!  
+---
+
