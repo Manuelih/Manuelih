@@ -76,9 +76,9 @@ Sono attualmente sviluppatore presso **[EnderDevelopment](https://enderdevelopme
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0A66C2)](https://manuelih.github.io)  
 [![Email](https://img.shields.io/badge/Email-emanuele@email.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuele.piferioprivate@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Manuelih-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelih)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emanuele-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo-linkedin)  
 
 </div>
 
@@ -87,4 +87,3 @@ Sono attualmente sviluppatore presso **[EnderDevelopment](https://enderdevelopme
 > 👀 **Grazie per essere passato!**  
 > 🚀 Seguimi per non perdere i prossimi progetti innovativi e collaborazioni!  
 ---
-
