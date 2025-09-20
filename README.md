@@ -7,7 +7,11 @@ Benvenuto nel mio profilo GitHub!
 
 ## 🏢 Attualmente
 
-Lavoro come sviluppatore per **EnderDevelopment** _(Endev.it)_ — una realtà professionale che crea **soluzioni digitali per Minecraft e Web**, facendo parte di un **team coeso di sviluppatori** che lavora su progetti su misura, plugin, siti web, applicazioni e tanto altro. :contentReference[oaicite:0]{index=0}
+### 🚀 Lavoro come sviluppatore per  
+# [EnderDevelopment](https://enderdevelopment.com/chi-siamo) _(Endev.it)_
+
+> 💡 **EnderDevelopment** è una realtà professionale specializzata in **soluzioni digitali per Minecraft e Web**.  
+> Faccio parte di un **team di sviluppatori affiatato e dinamico** che crea plugin personalizzati, siti web, applicazioni e molto altro, lavorando su progetti su misura per i clienti.
 
 ---
 
@@ -57,7 +61,7 @@ Lavoro come sviluppatore per **EnderDevelopment** _(Endev.it)_ — una realtà p
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-emanuele@email.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuele@email.it)
+[![Email](https://img.shields.io/badge/Email-emanuele@email.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuele.piferioprivate@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Manuelih-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuelih)
 
 </div>
