@@ -1,6 +1,6 @@
 <!-- Banner personalizzato -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/manuelih/your-banner.png" alt="Banner" width="600" />
+  <img src="https://imgur.com/6BFu0Rv" alt="Banner" width="600" />
 </p>
 
 # 👋 Ciao, sono Emanuele
