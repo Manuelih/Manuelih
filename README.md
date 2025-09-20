@@ -5,6 +5,12 @@ Benvenuto nel mio profilo GitHub!
 
 ---
 
+## 🏢 Attualmente
+
+Lavoro come sviluppatore per **EnderDevelopment** _(Endev.it)_ — una realtà professionale che crea **soluzioni digitali per Minecraft e Web**, facendo parte di un **team coeso di sviluppatori** che lavora su progetti su misura, plugin, siti web, applicazioni e tanto altro. :contentReference[oaicite:0]{index=0}
+
+---
+
 ## 🚀 Competenze Tecniche
 
 <div align="center">
@@ -26,7 +32,13 @@ Benvenuto nel mio profilo GitHub!
 - 🌐 **Siti web responsive** per portfolio, progetti personali o landing page  
 - 🛠️ **Script Python** per automazione, scraping e analisi dati
 
-> 🔗 Scopri il mio portfolio completo: [manuelih.github.io](https://manuelih.github.io)
+---
+
+## 🛠️ Esperienza in Team & Progetti Chiave
+
+- Collaborazione continua con il team di **EnderDevelopment / Endev.it**  
+- Sviluppo di soluzioni digitali personalizzate: plugin Minecraft, funzionalità Web, interfacce grafiche  
+- Curare la qualità, il design e le performance nei progetti aziendali  
 
 ---
 
