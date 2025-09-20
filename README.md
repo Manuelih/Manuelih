@@ -15,7 +15,7 @@
 
 Sono attualmente sviluppatore presso **[EnderDevelopment](https://enderdevelopment.com/chi-siamo)** (_Endev.it_), un team affiatato che crea soluzioni digitali su misura per Minecraft e web.
 
-> 💡 *Credo che il miglior codice sia quello che risolve problemi reali e rende la vita più semplice.*
+> 💡 *Crediamo che ogni sfida digitale meriti una soluzione personalizzata, creativa e all'avanguardia.*
 
 ---
 
