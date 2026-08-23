@@ -89,20 +89,31 @@ filosofia: "Software che funziona davvero"
   <img width="40%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Manuelih&layout=compact&hide=html&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7" />
 </p>
 
-### 📈 Riepilogo attività
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manuelih&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manuelih&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manuelih&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manuelih&theme=github_dark&utcOffset=2" />
-</p>
-
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manuelih&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true" />
+</p>
+
+---
+
+## 🤡 Fun Zone
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☕_Powered_by-Caffeine-6F4E37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Works_on-My_Machine-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐛_It's_not_a_bug-It's_a_feature-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥_Everything-Is_Fine-e25822?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder=true&bgColor=0D1117&textColor=A855F7&qColor=ffffff&aColor=A855F7" alt="Joke" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
 ---
