@@ -1,10 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://imgur.com/OZ3Mgst.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ciao%2C+sono+Emanuele+%F0%9F%91%8B;Full-Stack+Developer;Minecraft+%7C+Discord+%7C+Web;Trasformo+idee+in+codice" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Ciao%2C+sono+Emanuele+%F0%9F%91%8B;Developer+%7C+Java+%C2%B7+Python+%C2%B7+Web;Mi+sto+formando+come+Full-Stack;Trasformo+idee+in+codice" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -22,16 +17,16 @@
 ```yaml
 nome: Emanuele
 eta: 20
-ruolo: Full-Stack Developer indipendente / freelance
+ruolo: Developer · in formazione verso il Full-Stack
 focus: [Minecraft, Bot Discord, Web, Tools & Security]
 esperienza: "2+ anni di sviluppo continuo"
 progetti: "9 progetti completati, migliaia di player raggiunti"
-filosofia: "Software che funziona davvero"
+obiettivo: "Diventare un Full-Stack Developer completo"
 ```
 
 - 🎯 Sviluppo **da solo** i miei progetti, dall'idea al rilascio
 - 🧩 Plugin Minecraft enterprise, modding Fabric & Forge, bot Discord custom
-- 🌐 Sviluppo web full-stack, automazioni e tool di security
+- 🌱 Mi sto **specializzando** sul lato web per diventare Full-Stack
 - 👥 Abituato a **lavorare in team**: coordinamento, code review e Git flow
 - 🤝 Aperto a **collaborazioni** e lavori freelance
 
@@ -90,30 +85,11 @@ filosofia: "Software che funziona davvero"
 </p>
 
 <p align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/Manuelih/Manuelih/output/snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manuelih&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true" />
-</p>
-
----
-
-## 🤡 Fun Zone
-
-<p align="center">
-  <img src="https://img.shields.io/badge/☕_Powered_by-Caffeine-6F4E37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Works_on-My_Machine-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🐛_It's_not_a_bug-It's_a_feature-A855F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥_Everything-Is_Fine-e25822?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=react&hideBorder=true&bgColor=0D1117&textColor=A855F7&qColor=ffffff&aColor=A855F7" alt="Joke" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
 ---
@@ -127,5 +103,5 @@ filosofia: "Software che funziona davvero"
 </p>
 
 <p align="center">
-  <i>Grazie per essere passato — seguimi per i prossimi progetti! 🚀</i>
+  <i>Grazie per essere passato — seguimi per i prossimi progetti.</i>
 </p>
