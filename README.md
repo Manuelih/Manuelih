@@ -89,10 +89,16 @@ filosofia: "Software che funziona davvero"
   <img width="40%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Manuelih&layout=compact&hide=html&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7" />
 </p>
 
-### 🐍 Attività dei contributi
+### 📈 Riepilogo attività
 
 <p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/Manuelih/Manuelih/output/snake-dark.svg" alt="Snake animation" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manuelih&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manuelih&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manuelih&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manuelih&theme=github_dark&utcOffset=2" />
 </p>
 
 <p align="center">
