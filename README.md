@@ -24,7 +24,7 @@ progetti: "9 progetti completati, migliaia di player raggiunti"
 obiettivo: "Diventare un Full-Stack Developer completo"
 ```
 
-- 🎯 Sviluppo **da solo** i miei progetti, dall'idea al rilascio
+- 🎯 Sviluppo **da solo o in team** i progetti, dall'idea al rilascio
 - 🧩 Plugin Minecraft enterprise, modding Fabric & Forge, bot Discord custom
 - 🌱 Mi sto **specializzando** sul lato web per diventare Full-Stack
 - 👥 Abituato a **lavorare in team**: coordinamento, code review e Git flow
